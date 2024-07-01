@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 ## Description
-It's a **Rock Paper Scissors** with a quirk. You have to WIN or Loose. The idea is from [@twostraws](https://www.github.com/twostraws) **100DaysOfSwiftUI**.
+It's a **Rock Paper Scissors Game** with a quirk. You have to WIN or Loose. The idea is from [@twostraws](https://www.github.com/twostraws) **100DaysOfSwiftUI**.
 ## Technologies
 - written in Swift
 - SwiftUI
